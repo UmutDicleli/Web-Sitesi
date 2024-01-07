@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <meta charset="utfg-8">
+        <title>KİLO ALMAK İÇİN YEMEK PLANLARI</title>
+        <link rel="stylesheet" href="program.css">
+    </head>
+
+    <body>
+        <h2><a href="Anasayfa.HTML">Anasayfa</a></h3>
+
+        <div id="box1"><h3>YEMEK PLANI2</h3></div>
+        <div id="box2"><h3>YEMEK PLANI1</h3></div>
+        
+        <div id="box3"><b>KAHVALTI:</b>2 adet yumurta, 1 kase yoğurt, 100 gr zeytin, 100 gr peynir, 1 bardak süt, 1 adet muz, 1 kaşık reçel, 1 kaşık tereyağı</div>
+        <div id="box4"><b>KAHVALTI:</b>2 adet yumurta, 1 kase yoğurt, 100 gr zeytin, 100 gr peynir, 1 bardak süt, 1 adet muz, 1 kaşık reçel, 1 kaşık tereyağı</div>
+        
+        <div id="box5"><b>ÖĞLEN YEMEĞİ:</b> dilim baklava veya 1 porsiyon waffle veya 1 porsiyon tavuk ve 1 tabak pilav veya 1 porsiyon tatlı</div>
+        <div id="box6"><b>ÖĞLEN YEMEĞİ:</b>6 dilim baklava veya 1 porsiyon waffle veya 1 porsiyon tavuk ve 1 tabak pilav veya 1 porsiyon tatlı</div>
+        
+        <div id="box7"><b>AKŞAM YEMEĞİ:</b>8 kaşık ana yemek, 8 kaşık ara yemek, 1 kase çorba, 1 orta boy patates kızartması, 1 porsiyon tavuk</div>
+        <div id="box8"><b>AKŞAM YEMEĞİ:</b>8 kaşık ana yemek, 8 kaşık ara yemek, 1 kase çorba, 1 orta boy patates kızartması, 1 porsiyon tavu</div>
+    
+    </body>
+    
+</html>    
