@@ -1,0 +1,152 @@
+body{
+    margin: 0px;
+}
+a:link{
+    color:green;
+}
+
+a:visited{
+    color:greenyellow;
+}
+
+a:hover{
+    color:gold;
+}
+h2{
+    text-shadow: 2px -2px 1px red;
+    text-shadow: 2px -2px 1px blue;
+    animation: myanimation;
+    animation-play-state: running;
+    animation-duration: 2s;   
+}
+
+h3{
+    text-shadow: 2px -2px 1px green;
+    text-shadow: 2px -2px 1px blue;
+    animation: myanimation;
+    animation-play-state: running;
+    animation-duration: 2s; 
+}
+
+b{
+    text-shadow: 2px -2px 1px blue;
+    animation: myanimation;
+    animation-play-state: running;
+    animation-duration: 2s;   
+}
+
+@keyframes myanimation{
+    from{margin-left: 25%;}
+    to{margin-right: 10%;}
+}
+
+#box1{
+    font-size: 20px;
+    border: 1px solid;
+    width: 400px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-top: 15px;
+    background-color:red;
+    float: right;
+    text-align: center;
+}
+
+#box2{
+    font-size: 20px;
+    border: 1px solid;
+    width: 400px;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top:15px;
+    background-color:blue;
+    text-align: center;
+}
+
+#box3{
+    font-size: 20px;
+    border: 1px solid;
+    width: 400px;
+    height: 110px;
+    margin-left: 400px;
+    margin-right:100px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-left: 10px;
+    background-color:indigo;
+    float: right;
+}
+
+#box4{
+    font-size: 20px;
+    border: 1px solid;
+    width: 400px;
+    height: 110px;
+    margin-left: 19px;
+    margin-right: 00px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    background-color: gold;
+}
+
+#box5{
+    font-size: 18px;
+    border: 1px solid;
+    width: 400px;
+    height: 110px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color:brown;
+    float: right;
+}
+
+#box6{
+    font-size: 18px;
+    border: 1px solid;
+    width: 400px;
+    height: 110px;
+    margin-left: 19px;
+    margin-right: 100px;
+    margin-top:0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color: green;
+}
+
+#box7{
+    font-size: 18px;
+    border: 1px solid;
+    width: 400px;
+    height: 110px;
+    margin-left: 500px;
+    margin-right: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color:aqua;
+    float: right;
+}
+
+#box8{
+    font-size: 18px;
+    border: 1px solid;
+    width: 400px;
+    height: 110px;
+    margin-left: 19px;
+    margin-right: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    background-color:darkgrey;
+}
