@@ -1,0 +1,28 @@
+#box1{
+    border: 1px solid;
+    font-size: 70px;
+    background-color: coral;
+    width: 420px;
+    height: 200px;
+    text-align: center;
+    animation: myanimation;
+    animation-play-state: running;
+    animation-duration: 2s;
+}
+
+a:link{
+    color:darkorange;
+}
+
+a:visited{
+    color:chartreuse;
+}
+
+a:hover{
+    color:gold;
+}
+
+@keyframes myanimation{
+    from{margin-left: 25%;}
+    to{margin-right: 10%;}
+}
