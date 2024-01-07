@@ -1,0 +1,79 @@
+<html>
+    <head>
+        <title>Vücut tipleri</title>
+        <meta charset="utfg-8">
+        <link rel ="stylesheet" href = "body-types.css">
+    </head>
+    
+    <body>
+    <img src="vucuttipleri2.png" width="350px">
+    <b>Yandaki şekilde görüldüğü üzere vücut tipleri üçe ayrılır</b>
+    <ol type="1">
+        <li>Ektomorf vücut türü</li>
+        <li>Mezomorf Vücut türü</li>
+        <li>Endomorf vücut türü</li>
+    </ol>
+
+    <h3>AÇIKLAMALAR</h3>
+
+    <ol type="disc">
+        <li><b>Ektomorf vücut türü:</b>Ektomorf” vücut tipine sahip kişiler, sıklıkla kilo alması gerektiğine ilişkin söylemlere maruz kalan ve dışarıdan genellikle “sağlıksız” olarak nitelendirilen kişilerdir.
+
+            Oysa bu bireylerin sahip olduğu fiziki özellikler, onların vücut tipleri ile ilişkilidir ve bu özellikler kolayca değiştirilemez.
+            
+            Ne kadar yemek yerse yesin kilo almakta zorlanan ve alsa bile kolayca kilo veren bu kişiler, vücut geliştirmede oldukça zorlanırlar.
+            
+            Çünkü bu metabolizmaya sahip bireylerin vücutlarında kasa dönüşecek yağ barındırması oldukça güçtür.
+            
+            Öte yandan, bu bireyler, kimi insanlara göre sağlıksız gibi görünse de esasında bu kişiler sağlıklıdır.
+            
+            Kişi, günlük besin ihtiyacını yeterli düzeyde karşılıyor ise görüntüsünden yola çıkarak onun sağlık durumuna ilişkin bir yorumda bulunmak yanlış olacaktır.</li>
+    </ol>
+
+    <img src="EKTOMORF.jpg" width="350px">
+
+    <div id="box1">Yandaki Şekilde Ektomorf Vücut Türü Özetlenmiştir</div>
+    <b>Mezomorf:</b>“Mezomorf” vücut tipine sahip kişiler, doğaları gereği yağsızdırlar ve belirgin kaslara sahiptirler.
+
+    İnce bel, geniş omuzlar, orta kalınlıktaki kemikler bu kişilerin tipik özellikleri arasında yer alır.
+    
+    Atletik bir fiziğe sahiptirler ve vücut geliştirme alanında avantaj sahibidirler.
+    
+    Cinsiyet farkı gözetmeksizin hızla kas kazanabilen bu vücut tipindeki insanlar, ortalama bir boya sahiptirler.
+    
+    Kişi vücut geliştirme ile ilgilenmiyor ise vücut büyüklüğü olarak da ortalama bir görünüm çizerler.
+    
+    Vücut ağırlıkları her bölgeye eşit biçimde dağılmıştır.
+    
+    Bu sebeple kıyafet alışverişi konusunda pek sorun yaşamazlar.
+    
+    Kas kütleleri fazladır.
+    
+    Dolayısıyla yedikleri besinler hızlıca enerjiye çevrilir.
+    
+    Bunun yanında fazla kilo almamak için beslenmelerine dikkat etmeleri gerekir
+
+    <img src="mezomorf.jpg" width="350px">
+
+    <div id="box2">Yandaki Şekilde Mezomorf Vücut Tipi Örneklenmiştir</div>
+    <b>Endomorf:</b>“Endomorf” vücut tipine sahip kişilerin boyları büyük ölçüde farklılık arz eder.
+
+        Bunun yanında boy uzunlukları ne olursa olsun, vücut tipleri benzerlik gösterir.
+        
+        Buna göre geniş bir bel, geniş kemikler ve yuvarlak bir gövde, endomorf vücut tipinin karakteristik özellikleri arasında yer alır.
+        
+        Bu vücut tipine sahip kişiler çoğunlukla yavaş bir metabolizmaya sahiptir.
+        
+        Bu nedenle düzenli olarak antrenman ve egzersiz yapmaları tavsiye edilir.
+        
+        Aksi durumda, istenmeyen ölçüde kilo artışı bu kişilerde yaygın olarak görülebilir.
+        
+        Bununla birlikte, yediklerinin takibini de titizlik ile yapmaları gerekir.
+        
+        Bu bireylerin, kilo takibini elden bırakmadan oldukça sağlıklı bir yaşam geçirmeleri mümkündür.
+
+    <img src="endomorf.png" width="350px" height="150px">
+    <div id="box3">Yandaki Şekilde Endomorf Vücut Tipine Örnek Verilmiştir</div>
+
+    </body>
+</html>
