@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>
+Boy-Kütle orani
+</title>
+<link rel="stylesheet" href="indeks.css">
+</head>
+<body>
+<a href="Anasayfa.HTML"><h2>Anasayfa</h2></a>
+<h2>Boy Kilo İndeks Hesaplama</h2>
+<body background="C:\Users\Umut\Desktop\foto2.jpg">
+<input placeholder="Kilonuzu giriniz(kg)" type="text" id="kilo">
+<input placeholder="Boyunuzu giriniz(cm)" type="text" id="boy">
+<button id="btn" onclick="hesap()">İNDEKS HESAPLA</button>
+<div id="indeks"/div>
+
+<script>
+function hesap(){
+var kilo = Number(document.getElementById("kilo").value);
+var boy = Number(document.getElementById("boy").value);
+var indeks=((kilo / (boy * boy)) * 10000);
+indeks = indeks.toFixed(2);
+document.getElementById("indeks").innerHTML="indeks : "+ indeks;
+}
+
+</script>
+</body>
+</html>
