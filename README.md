@@ -1,2 +1,2 @@
-# Web Sitesi Anasayfa
- Anasayfa HTML
+# Web Sitesi
+
